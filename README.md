@@ -87,7 +87,7 @@ pip3 install selenium
 - 本项目仅供参考学习，造成的一切后果由使用者自行承担
 - 本项目敏感性不比 skj，利人利己，私以为还是可以合理扩散一下的，吧？
 
-## 证书
+## 证书1
 
 [Apache License 2.0](https://github.com/Bruuuuuuce/PKUAutoSubmit/blob/main/LICENSE)
 
